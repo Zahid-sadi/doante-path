@@ -107,7 +107,7 @@ small{
 }
 .help-hunter p{
     color: black;
-    
+
 }
 .middle-container{
     display: flex;
@@ -130,17 +130,17 @@ small{
     justify-content: flex-end;
 }
 
-.donation-fild:nth-child(1){
+.Con-top{
     background: rgb(255, 235, 239);
     border-radius: 5px;
 }
 
-.donation-fild:nth-child(2){
+.Con-middle{
     background: rgb(225, 254, 225);
     border-radius: 5px;
 }
 
-.donation-fild:nth-child(3){
+.Con-bottom{
     background: rgb(255, 244, 246);
     border-radius: 5px;
 }
