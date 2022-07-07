@@ -1,0 +1,211 @@
+body {
+    width: 1440px;
+    margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.top-banner{
+    background-image: url(images/donation3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    position: relative;
+    width: 100%;
+    height: 650px;
+}
+.top-frame{
+    position: absolute;
+    text-align: center;
+    padding: 150px 307px;
+    border:1px ;
+    height: 300px;
+}
+.top-frame h1{
+    font-size: 70px;
+    text-align: center;
+    color: honeydew;
+}
+.top-frame p{
+    font-size: 22;
+    font-weight: 400;
+    text-align: center;
+    color: honeydew;
+
+}
+.link-button{
+    font-weight: bold;
+    text-decoration: none;
+    background-color: chocolate;
+    padding: 12px 16px;
+    border-radius: 5px;
+    margin-top: 20px;
+    border: none;
+}
+.donation{
+   text-align: center;
+   padding-top: 100px;
+
+}
+.amount{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bolder;
+    background: #f5f3f3;
+    Width: 120px;
+    Height: 110px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: none;
+    margin: 10px;
+}
+.tk500{
+    border: 2px red solid;
+    background:rgb(238, 224, 227);
+}
+.amount-type{
+    text-align: center;
+    width: 1000px;
+    height: 25px;
+    border: none;
+    border-bottom: 1px rgb(198, 194, 194) solid;
+    margin-top: 50px;
+}
+.bar-input{ 
+    
+    padding: 11px;
+    border: 5px 6px 1px;
+    border-radius: 5px;
+    border: 1px brown solid;
+    
+
+}
+.search-div{
+    width: 50%;
+    height: 110px;
+    margin-top: 95px;
+    
+
+}
+.help-hunter{
+    color: cornsilk;
+    width: 80%;
+    background-image: linear-gradient(rgb(141, 136, 136),rgb(247, 243, 241));
+    padding:10px;
+    border-left: 5px;
+    margin-top: 75px;
+    
+}
+.help-hunter h2{
+    color: black;
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+
+}
+small{
+    color: red;
+
+}
+.help-hunter p{
+    color: black;
+    
+}
+.middle-container{
+    display: flex;
+}
+.donation-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+
+}
+
+.donation-fild{
+    width: 350px;
+    height: 342px;
+    margin: 10px;
+    padding: 0 22px 54px 22px;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.donation-fild:nth-child(1){
+    background: rgb(255, 235, 239);
+    border-radius: 5px;
+}
+
+.donation-fild:nth-child(2){
+    background: rgb(225, 254, 225);
+    border-radius: 5px;
+}
+
+.donation-fild:nth-child(3){
+    background: rgb(255, 244, 246);
+    border-radius: 5px;
+}
+
+.icon{
+    height: 30px;
+    width: 30px;
+}
+
+.update{
+    text-align: center;
+}
+.update h1{
+    font-weight: bolder;
+    font-size: 70px;
+}
+.mail-input{
+    background-color: cornflowerblue;
+    padding: 12px 16px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius:5px;
+    margin-right: -10px;
+    border: none;
+
+}
+.mail-button{
+    padding: 12px 20px;
+    background-color: brown;
+    border: 15px;
+    margin-left:-2px;
+    margin-bottom: 45px; 
+    border-bottom-right-radius: 5px; 
+    border-top-right-radius: 5px;
+}
+footer {
+    text-align: center;
+    background-color: darkslategrey;
+    margin-top: 25px;
+    padding: 5px;
+    border: 5px;
+    
+}
+footer h1{
+    color: chocolate;
+    padding: 10px;
+    border: 5px;
+    font-family: 'Lobster', cursive;
+    font: 70px;
+}
+footer p{
+    padding: 5px;
+    border: 5px;
+    margin: 20px;
+
+}
+.update-form{
+    background-color: burlywood;
+    padding: 40px 15px 10px;
+    border: 5px 0px;
+    margin: 100px;
+    
+}
+
+   
+
+
+
+
